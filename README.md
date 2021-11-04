@@ -6,7 +6,7 @@ Honestly, when I heard we would be looking at creative computing in unit two I w
 Because of this, it is safe to say that I struggled this week however, looking back on it I am proud of myself for not giving up and instead learning enough that I may potentially help others.  
    
 
-THE BEGINNING
+**THE BEGINNING**
 
 I started my week gaining a basic understanding of creative computing, reading different resources provided as well as developing my understand of the basic principles and key terms. 
 
@@ -20,6 +20,6 @@ STEAM:
 
 README:
 
-MY LEARNING AND EXPERIENCE
+**MY LEARNING AND EXPERIENCE**
 
-Once I understood the basic terms of Creative Computing, I began looking into physical computing through Arduino. Before this, I had previous only maade circuits in year 9 science to learn about electricity (we used a few wires and a battery to light a bulb - really technical stuff). 
+Once I understood the basic terms of Creative Computing, I began looking into physical computing through Arduino. Before this, I had previous only maade circuits in year 9 science to learn about electricity (we used a few wires and a battery to light a bulb - really technical stuff) and in Design and Technology in years 7-9 (once again, really basic stuff with the teachers telling us all exactly what to do). Because of this, going onto Arduino I felt overhwelmed and confused. There were words being used that I had never heard and understanding why different aspects of the circuit were important was difficult. 
