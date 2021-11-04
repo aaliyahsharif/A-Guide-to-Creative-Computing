@@ -39,4 +39,5 @@ Along with this, I learnt about README files and GitHub, both of which I didn't 
 
 This week has been a chanllenge for me, I have had to force myslef to do things I am not confident with and continue experiementing and learning despite the amount of mistakes I have made. I think this made my finishing this week with a finished piece all the more satisfying. Whilst it may not be as extravagent or technical as others, it is evidence to myself that I can do anything I put my mind to and I'm proud of what I have made... I may even carry on looking at coding across the weekend and into spare time I may have in the coimng weeks.
 
-Even though I am happy with my outcome, I am aware that many improvements could be made. 
+Even though I am happy with my outcome, I am aware that many improvements could be made. If I had more time or spent less time on TinkerCAD I would have looked at coding further and possibly written a guide to coding specifically as it is a topic far more complex than TinkerCAD and README files so I feel people would benefit from something like this more. 
+
