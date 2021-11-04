@@ -5,6 +5,7 @@ Honestly, when I heard we would be looking at creative computing in unit two I w
 
 Because of this, it is safe to say that I struggled this week however, looking back on it I am proud of myself for not giving up and instead learning enough that I may potentially help others.  
 
+***
 
 **THE BEGINNING**
 
