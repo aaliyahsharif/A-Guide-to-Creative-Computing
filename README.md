@@ -41,3 +41,7 @@ This week has been a chanllenge for me, I have had to force myslef to do things 
 
 Even though I am happy with my outcome, I am aware that many improvements could be made. If I had more time or spent less time on TinkerCAD I would have looked at coding further and possibly written a guide to coding specifically as it is a topic far more complex than TinkerCAD and README files so I feel people would benefit from something like this more. 
 
+
+**A Message to Other Beginners**
+
+You may feel lost or overwhelmed with Creative Computing but breaking it down and taking it step by step goes a long way. So does asking for help! If you feel you've hit a brick wall then talk to peers, a fresh set of eyes are more useful than you may think. 
