@@ -20,6 +20,8 @@ I started my week gaining a basic understanding of creative computing, reading d
 
 - README:
 
+***
+
 **MY LEARNING AND EXPERIENCE**
 
 Once I understood the basic terms of Creative Computing, I began looking into physical computing through Arduino. Before this, I had previous only maade circuits in year 9 science to learn about electricity (we used a few wires and a battery to light a bulb - really technical stuff) and in Design and Technology in years 7-9 (once again, really basic stuff with the teachers telling us all exactly what to do). Because of this, going onto Arduino I felt overhwelmed and confused. There were words being used that I had never heard and understanding why different aspects of the circuit were important was difficult. 
