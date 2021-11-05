@@ -13,7 +13,7 @@ Because of this, it is safe to say that I struggled this week however, looking b
 
 **Go back to basics, don't charge ahead and hope it will all fall into place.** I started my week gaining a basic understanding of creative computing, reading different resources provided as well as developing my understand of the basic principles and key terms. 
 
-![Digital Wellbeing Experiments](C:/Users/mail/Desktop/Untitled.png)
+![Digital Wellbeing Experiments](C:/Users/mail/Desktop/Untitled.png)](https://experiments.withgoogle.com/collection/digitalwellbeing)
 
 - *Creative Comuputing:* the cross-over of the creative arts and comptuing. It is interdisciplinary including topics such as philosophy, support environment, applications, evaluations and development method. 
 
