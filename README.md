@@ -1,4 +1,4 @@
-**A Guide to Creative Computing.**
+# A Guide to Creative Computing.
 A few things I wish I had read before looking into creative computing for the first time. 
 
 ***
