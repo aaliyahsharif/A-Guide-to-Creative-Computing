@@ -3,7 +3,7 @@ A few things I wish I had read before looking into creative computing for the fi
 
 ***
 
-**It's okay to have no clue what you're doing!** Honestly, when I heard we would be looking at creative computing in unit two I was nervous and felt a little unmotivated to take part in the CC week. Saying that seeems silly because I have never even really worked with computing - physical or creative. Despite this, the idea of it has always been something negative in my head after the years of hearing my friends that took Computer Science talking in basically a different languange about everything they did in their lessons. I never grew up with Xboxs or Wii's so technology and I have never been the best of friends which is why I have always tried to avoid it.
+**It's okay to have no clue what you're doing!** Honestly, when I heard we would be looking at creative computing in unit two I was nervous and felt a little unmotivated to take part in the CC week. Saying that seeems silly because I have never even really worked with computing - physical or creative. Despite this, the idea of it has always been something negative in my head after the years of hearing my friends that took Computer Science talking in basically a different languange about everything they did in their lessons. As well as this, I never grew up with an Xbox or Wii so technology and I have never been the best of friends which is why I have always tried to avoid it.
 
 Because of this, it is safe to say that I struggled this week however, looking back on it I am proud of myself for not giving up and instead learning enough that I may potentially help others.  
 
@@ -19,7 +19,7 @@ Because of this, it is safe to say that I struggled this week however, looking b
 
 - *Open Source:* computer software that is released for anyone to use, distribute and change for any purpose.
 
-- *STEAM:* stands for science, technology, engineering, arts and maths. An educational approach that introduces the arts into the original STEM (means more funding an dpromotion of the arts in the education system).
+- *STEAM:* stands for science, technology, engineering, arts and maths. It's an educational approach that introduces the arts into the original STEM (means more funding an promotion of the arts in the education system).
 
 - *README files:* the first file a user will look at - used to explain what is uploaded and how you can install and use the software.
 
@@ -31,15 +31,15 @@ Once I understood the basic terms of Creative Computing, I began looking into ph
 
 My struggling with physical computing meant I spent a long time looking at the physical side rather than the coding side of creative computing. Whilst my knowledge on coding would be limited either way with no prior exposure to coding, I did not look at and attempt as much as I would have liked to. So far I have managed to do simple things like make text **bold** or *italicise* text and havent been able to experiment with more complex lines/elements of code. 
 
-Along with this, I learnt about README files and GitHub, both of which I didn't know about. Even though I now only know very little, the fact I'm even aware they exist and have been able to navigate both has boost my confidence and shown me I am able to do things that I would never imagine doing alone.
+Along with this, I learnt about README files and GitHub, both of which I ha never even heard of before this week. Even though I now only know very little, the fact I'm even aware they exist and have been able to navigate both has boost my confidence and shown me I am able to do things that I would never imagine doing alone.
 
 ***
 
 **REFLECTION**
 
-This week has been a chanllenge for me, I have had to force myslef to do things I am not confident with and continue experiementing and learning despite the amount of mistakes I have made. I think this made my finishing this week with a finished piece all the more satisfying. Whilst it may not be as extravagent or technical as others, it is evidence to myself that I can do anything I put my mind to and I'm proud of what I have made... I may even carry on looking at coding across the weekend and into spare time I may have in the coimng weeks.
+This week has been a challenge for me, I have had to force myslef to do things I am not confident with and continue experiementing and learning despite the large amount of mistakes I have made. I think this made ending this week with a finished piece all the more satisfying. Whilst it may not be as extravagent or technical as others, it is evidence to myself that I can do anything I put my mind to and I'm proud of what I have made. I have also really enjoyed this week, what i have read and learnt is new and exciting and there is so much more i am yet to explore so I would loev to carry Creative Computing on at a later date. 
 
-Even though I am happy with my outcome, I am aware that many improvements could be made. If I had more time or spent less time on TinkerCAD I would have looked at coding further and possibly written a guide to coding specifically as it is a topic far more complex than TinkerCAD and README files so I feel people would benefit from something like this more. 
+Even though I am happy with my outcome, I am aware that many improvements could be made. If I had more time or spent less time on TinkerCAD I would have looked at coding further and possibly written a guide to coding specifically as it is a topic far more complex than TinkerCAD and README files so I feel people would benefit from something like this more. On the other hand, if I knew more than I would have liked to make this guide more informal rather than it being something someone can read to see they are not alone in their struggles. 
 
 ***
 
