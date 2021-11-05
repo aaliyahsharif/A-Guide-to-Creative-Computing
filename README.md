@@ -13,7 +13,13 @@ Because of this, it is safe to say that I struggled this week however, looking b
 
 **Go back to basics, don't charge ahead and hope it will all fall into place.** I started my week gaining a basic understanding of creative computing, reading different resources provided as well as developing my understand of the basic principles and key terms. 
 
+p5.js (p5js.org/community)
+
+Stack Overflow (stackoverflow.com/)
+
 Digital Wellbeing Experiments (https://experiments.withgoogle.com/collection/digitalwellbeing)
+
+Digi-Gxl (www.dazeddigital.com/projects/article/48825/1/digi-gxl-collective-biography-dazed-100-2020-profile)
 
 - *Creative Comuputing:* the cross-over of the creative arts and comptuing. It is interdisciplinary including topics such as philosophy, support environment, applications, evaluations and development method. 
 
