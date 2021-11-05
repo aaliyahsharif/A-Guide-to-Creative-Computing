@@ -13,17 +13,15 @@ Because of this, it is safe to say that I struggled this week however, looking b
 
 **Go back to basics, don't charge ahead and hope it will all fall into place.** I started my week gaining a basic understanding of creative computing, reading different resources provided as well as developing my understand of the basic principles and key terms. 
 
-- Creative Comuputing: Creative computing refers to a meta-technology to coalesce knowledge in computing and other disciplines. 
-- Creative computing is interdisciplinary in nature and topics relating to it include applications, development method, evaluation, modeling, philosophy, principles, support environment, and theory
-- Creative computing covers the interdisciplinary area at the cross-over of the creative arts and computing. Issues of creativity include knowledge discovery, for example
+- *Creative Comuputing:* the cross-over of the creative arts and comptuing. It is interdisciplinary including topics such as philosophy, support environment, applications, evaluations and development method. 
 
-- Physical Computing:
+- *Physical Computing:* refers to the use of tangible interactive systems (e.g. Arduino) that control outputs such as lights, displays, motors, etc. 
 
-- Open Source:
+- *Open Source:* computer software that is released for anyone to use, distribute and change for any purpose.
 
-- STEAM:
+- *STEAM:* stands for science, technology, engineering, arts and maths. An educational approach that introduces the arts into the original STEM (means more funding an dpromotion of the arts in the education system).
 
-- README:
+- *README files:* the first file a user will look at - used to explain what is uploaded and how you can install and use the software.
 
 ***
 
@@ -37,7 +35,7 @@ Along with this, I learnt about README files and GitHub, both of which I didn't 
 
 ***
 
-**Reflection**
+**REFLECTION**
 
 This week has been a chanllenge for me, I have had to force myslef to do things I am not confident with and continue experiementing and learning despite the amount of mistakes I have made. I think this made my finishing this week with a finished piece all the more satisfying. Whilst it may not be as extravagent or technical as others, it is evidence to myself that I can do anything I put my mind to and I'm proud of what I have made... I may even carry on looking at coding across the weekend and into spare time I may have in the coimng weeks.
 
@@ -45,6 +43,6 @@ Even though I am happy with my outcome, I am aware that many improvements could 
 
 ***
 
-**A Message to Other Beginners**
+**A MESSAGE TO OTHER BEGINNERS**
 
 You may feel lost or overwhelmed with Creative Computing but breaking it down and taking it step by step goes a long way. So does asking for help! If you feel you've hit a brick wall then talk to peers, a fresh set of eyes are more useful than you may think. 
