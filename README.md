@@ -1,4 +1,4 @@
-# A-Guide-to-Creative-Computing.
+**A Guide to Creative Computing.**
 A few things I wish I had read before looking into creative computing for the first time. 
 
 ***
@@ -13,7 +13,9 @@ Because of this, it is safe to say that I struggled this week however, looking b
 
 **Go back to basics, don't charge ahead and hope it will all fall into place.** I started my week gaining a basic understanding of creative computing, reading different resources provided as well as developing my understand of the basic principles and key terms. 
 
-- Creative Comuputing:
+- Creative Comuputing: Creative computing refers to a meta-technology to coalesce knowledge in computing and other disciplines. 
+- Creative computing is interdisciplinary in nature and topics relating to it include applications, development method, evaluation, modeling, philosophy, principles, support environment, and theory
+- Creative computing covers the interdisciplinary area at the cross-over of the creative arts and computing. Issues of creativity include knowledge discovery, for example
 
 - Physical Computing:
 
@@ -41,6 +43,7 @@ This week has been a chanllenge for me, I have had to force myslef to do things 
 
 Even though I am happy with my outcome, I am aware that many improvements could be made. If I had more time or spent less time on TinkerCAD I would have looked at coding further and possibly written a guide to coding specifically as it is a topic far more complex than TinkerCAD and README files so I feel people would benefit from something like this more. 
 
+***
 
 **A Message to Other Beginners**
 
