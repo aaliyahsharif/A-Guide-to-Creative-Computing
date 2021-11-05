@@ -13,6 +13,8 @@ Because of this, it is safe to say that I struggled this week however, looking b
 
 **Go back to basics, don't charge ahead and hope it will all fall into place.** I started my week gaining a basic understanding of creative computing, reading different resources provided as well as developing my understand of the basic principles and key terms. 
 
+![digital wellbeing experiements](/"C:\Work\CSM\YEAR 1\UNIT TWO\Untitled.png")
+
 - *Creative Comuputing:* the cross-over of the creative arts and comptuing. It is interdisciplinary including topics such as philosophy, support environment, applications, evaluations and development method. 
 
 - *Physical Computing:* refers to the use of tangible interactive systems (e.g. Arduino) that control outputs such as lights, displays, motors, etc. 
