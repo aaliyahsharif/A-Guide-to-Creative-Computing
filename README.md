@@ -13,9 +13,9 @@ Because of this, it is safe to say that I struggled this week however, looking b
 
 **Go back to basics, don't charge ahead and hope it will all fall into place.** I started my week gaining a basic understanding of creative computing, reading different resources provided as well as developing my understand of the basic principles and key terms. 
 
-p5.js (p5js.org/community)
+p5.js (https://p5js.org/community/)
 
-Stack Overflow (stackoverflow.com/)
+Stack Overflow (https://stackoverflow.com/)
 
 Digital Wellbeing Experiments (https://experiments.withgoogle.com/collection/digitalwellbeing)
 
